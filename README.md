@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Lu202
 - 🦞 I’m currently learning coding
+- ☕️ coffee ☀️
 
 <!---
 Lu202/Lu202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
